@@ -40,3 +40,11 @@ $ python cracking-go.py
 • Forensics engineers.
 
 • Lost-password recovery use-cases.
+
+# 📦ZIP cracking command.
+
+📂 Enter ZIP file path:
+>> /sdcard/Download/danger_v4.zip
+
+📜 Enter wordlist path:
+>> wordlist.txt
