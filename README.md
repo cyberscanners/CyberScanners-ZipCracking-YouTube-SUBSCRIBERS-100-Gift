@@ -2,7 +2,7 @@
 
 # YouTube SUBSCRIBERS 100 Gift
 
-INSTALL TERMUX.
+INSTALL TERMUX CS10015629#
 
 $ pkg update && pkg upgrade
 
